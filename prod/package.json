@@ -1,0 +1,20 @@
+{
+  "name": "Gulp-Starter",
+  "version": "0.0.1",
+  "description": "A simple Gulp project starter.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikemccarron/Gulp-Starter"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-closure-compiler": "^0.2.7",
+    "gulp-coffee": "*",
+    "gulp-compass": "*",
+    "gulp-csso": "*",
+    "gulp-imagemin": "*",
+    "gulp-jshint": "*",
+    "gulp-pngmin": "*"
+  }
+}
